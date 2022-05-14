@@ -36,7 +36,7 @@ generateBtn.addEventListener("click", writePassword);
 
 
   
- generatePassword()
+ 
   
 
 
